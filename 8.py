@@ -1,3 +1,4 @@
+#Randomly draw 5 cards from a deck to a list and print off
 #!/usr/bin/python
 import random
 
