@@ -1,3 +1,4 @@
+#Function to read and display a file text as reversed
 import sys
 
 #Wrapper if statements to ensure that only one file is specified
