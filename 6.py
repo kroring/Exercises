@@ -1,3 +1,4 @@
+#List all links at a specified URL that are related to a given piece of text
 import re, urllib, urllib2, sys, httplib
 from urlparse import urljoin
 
