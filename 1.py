@@ -1,5 +1,4 @@
 #Function to randomly pick a number between any two given numbers passed as params when running program
-
 import random
 import sys
 
