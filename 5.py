@@ -1,3 +1,4 @@
+#Application to list all .gif & .jpeg image links from provided URL
 #Import required packages
 import re, urllib, urllib2, os, sys
 from urlparse import urljoin
