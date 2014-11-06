@@ -1,3 +1,4 @@
+# Application to return site headers of given URL
 #Import required packages
 import urllib2, sys
 
