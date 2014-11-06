@@ -1,3 +1,4 @@
+#Add five unique, random numbers between 0 & 51 to a list and print off
 #!/usr/bin/python
 import random
 
