@@ -1,4 +1,4 @@
-# Program to find and display all child files & folders within a given directory
+#Program to find and display all child files & folders within a given directory
 import os
 import glob
 import sys
